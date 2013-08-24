@@ -1,0 +1,18 @@
+git https://github.com/thaneshgopal/security.git
+git config --global user.name "ThaneshGopal"
+get config --global user.email "thanesh_gopal@hotmail.com"
+git config --global user.email "thanesh_gopal@hotmail.com"
+git add wep_crack.c 
+git init
+git add wep_crack.c
+git git@github.com:thaneshgopal/security.git
+it commit -m 'source for wep_crack'
+git remote add origin https://github.com/thaneshgopal/security.git
+
+git push origin master
+git pull master
+git pull https://github.com/thaneshgopal/security.git security
+
+git pull https://github.com/thaneshgopal/security.git
+git push origin master
+
